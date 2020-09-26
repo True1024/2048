@@ -505,7 +505,7 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background: #eee4da url(https://all2048.com/images/1/blackpink/25d7269d6757b3.jpg);
+    background: #eee4da url(https://all2048.com/images/21/blackpink-ice-cream/25f6998e8dcbbf.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -514,7 +514,7 @@ hr {
     font-size: 20px; }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
-    background: #757575 url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: #757575 url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 0, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -529,7 +529,7 @@ hr {
     font-size: 16px; }
   .tile.tile-Infinity .tile-inner {
     color: #000000;
-    background: #ffffff url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: #ffffff url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 0, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -537,7 +537,7 @@ hr {
   .tile.tile-2 .tile-inner, .tile.tile-0 .tile-inner, .tile.tile-1 .tile-inner {
     font-size: 26px; 
     color: rgba(0, 0, 0, 0);
-    background: #eee4da url(https://all2048.com/images/1/blackpink/25d7269d6757b3.jpg);
+    background: #eee4da url(https://all2048.com/images/21/blackpink-ice-cream/25f6998e8dcbbf.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
@@ -547,7 +547,7 @@ hr {
   .tile.tile-4 .tile-inner, .tile.tile-3 .tile-inner {
     font-size: 26px; 
     color: rgba(0, 0, 0, 0);
-    background: #ede0c8 url(https://all2048.com/images/1/blackpink/45d7269d6758bf.jpg);
+    background: #ede0c8 url(https://all2048.com/images/21/blackpink-ice-cream/45f6998e8e2754.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
@@ -557,7 +557,7 @@ hr {
   .tile.tile-8 .tile-inner, .tile.tile-5 .tile-inner, .tile.tile-6 .tile-inner  {
     font-size: 26px; 
     color: rgba(0, 0, 0, 0);
-    background: #f2b179 url(https://all2048.com/images/1/blackpink/85d7269d6759d8.jpg);
+    background: #f2b179 url(https://all2048.com/images/21/blackpink-ice-cream/85f6998e8e7e32.jpeg);
     background-size: cover;
     background-repeat: no-repeat; }
     @media screen and (max-width: 480px) {
@@ -566,7 +566,7 @@ hr {
   .tile.tile-16 .tile-inner, .tile.tile-13 .tile-inner, .tile.tile-12 .tile-inner  {
     font-size: 26px; 
     color: rgba(0, 0, 0, 0);
-    background: #f59563 url(https://all2048.com/images/1/blackpink/165d7269d675ad1.jpg);
+    background: #f59563 url(https://all2048.com/images/21/blackpink-ice-cream/165f6998e8ed2c7.jpeg);
     background-size: cover;
     background-repeat: no-repeat; }
     @media screen and (max-width: 480px) {
@@ -575,7 +575,7 @@ hr {
   .tile.tile-32 .tile-inner, .tile.tile-21 .tile-inner, .tile.tile-24 .tile-inner  {
     font-size: 26px; 
     color: rgba(0, 0, 0, 0);
-    background: #f67c5f url(https://all2048.com/images/1/blackpink/325d7269d675be4.jpg);
+    background: #f67c5f url(https://all2048.com/images/21/blackpink-ice-cream/325f6998e8f2dfb.jpeg);
     background-size: cover;
     background-repeat: no-repeat; }
     @media screen and (max-width: 480px) {
@@ -584,7 +584,7 @@ hr {
   .tile.tile-64 .tile-inner, .tile.tile-34 .tile-inner, .tile.tile-48 .tile-inner  {
     font-size: 26px; 
     color: rgba(0, 0, 0, 0);
-    background: #f65e3b url(https://all2048.com/images/1/blackpink/645d7269d675ce2.jpg);
+    background: #f65e3b url(https://all2048.com/images/21/blackpink-ice-cream/645f6998e9043d6.jpeg);
     background-size: cover;
     background-repeat: no-repeat; }
     @media screen and (max-width: 480px) {
@@ -592,7 +592,7 @@ hr {
         font-size: 19px; } }
   .tile.tile-128 .tile-inner, .tile.tile-55 .tile-inner, .tile.tile-96 .tile-inner  {
     color: rgba(0, 0, 0, 0);
-    background: #edcf72 url(https://all2048.com/images/1/blackpink/1285d7269d675de5.jpg);
+    background: #edcf72 url(https://all2048.com/images/21/blackpink-ice-cream/1285f6998e90927e.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 24px; }
@@ -601,7 +601,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-256 .tile-inner, .tile.tile-89 .tile-inner, .tile.tile-192 .tile-inner  {
     color: rgba(0, 0, 0, 0);
-    background: #edcc61 url(https://all2048.com/images/1/blackpink/2565d7269d675ee8.jpg);
+    background: #edcc61 url(https://all2048.com/images/21/blackpink-ice-cream/2565f6998e90e5c3.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 24px; }
@@ -610,7 +610,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-512 .tile-inner, .tile.tile-144 .tile-inner, .tile.tile-384 .tile-inner  {
     color: rgba(0, 0, 0, 0);
-    background: #edc850 url(https://all2048.com/images/1/blackpink/5125d7269d676003.jpg);
+    background: #edc850 url(https://all2048.com/images/21/blackpink-ice-cream/5125f6998e9144ee.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 24px; }
@@ -619,7 +619,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-1024 .tile-inner, .tile.tile-233 .tile-inner, .tile.tile-768 .tile-inner  {
     color: rgba(0, 0, 0, 0);
-    background: #edc53f url(https://all2048.com/images/1/blackpink/10245d7269d6760f0.jpg);
+    background: #edc53f url(https://all2048.com/images/21/blackpink-ice-cream/10245f6998e91984b.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 23px; }
@@ -628,7 +628,7 @@ hr {
         font-size: 11px; } }
   .tile.tile-2048 .tile-inner, .tile.tile-377 .tile-inner, .tile.tile-1536 .tile-inner  {
     color: rgba(0, 0, 0, 0);
-    background: #edc22e url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: #edc22e url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 22px; }
@@ -637,7 +637,7 @@ hr {
         font-size: 11px; } }
   .tile.tile-4096 .tile-inner, .tile.tile-610 .tile-inner, .tile.tile-3072 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(163, 73, 164, 0.5) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(163, 73, 164, 0.5) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 21px; }
@@ -646,7 +646,7 @@ hr {
         font-size: 11px; } }
   .tile.tile-8192 .tile-inner, .tile.tile-987 .tile-inner, .tile.tile-6144 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(163, 73, 164, 0.6) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(163, 73, 164, 0.6) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 20px; }
@@ -655,7 +655,7 @@ hr {
         font-size: 11px; } }
   .tile.tile-8192 .tile-inner, .tile.tile-987 .tile-inner, .tile.tile-12288 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(163, 73, 164, 0.7) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(163, 73, 164, 0.7) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 19px; }
@@ -664,7 +664,7 @@ hr {
         font-size: 11px; } }
   .tile.tile-16384 .tile-inner, .tile.tile-1597 .tile-inner, .tile.tile-24576 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(163, 73, 164, 0.8) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(163, 73, 164, 0.8) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 18px; }
@@ -673,7 +673,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-32768 .tile-inner, .tile.tile-2584 .tile-inner, .tile.tile-49152 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(163, 73, 164, 0.9) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(163, 73, 164, 0.9) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 17px; }
@@ -682,7 +682,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-65536 .tile-inner, .tile.tile-4181 .tile-inner, .tile.tile-98304 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(163, 73, 164, 1.0) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(163, 73, 164, 1.0) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 16px; }
@@ -691,7 +691,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-131072 .tile-inner, .tile.tile-6765 .tile-inner, .tile.tile-196608 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(63, 72, 204, 0.6) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(63, 72, 204, 0.6) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 12px; }
@@ -700,7 +700,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-262144 .tile-inner, .tile.tile-10946 .tile-inner, .tile.tile-393216 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(63, 72, 204, 0.7) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(63, 72, 204, 0.7) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 11px; }
@@ -709,7 +709,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-524288 .tile-inner, .tile.tile-17711 .tile-inner, .tile.tile-786432 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(63, 72, 204, 0.8) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(63, 72, 204, 0.8) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 10px; }
@@ -718,7 +718,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-1048576 .tile-inner, .tile.tile-28657 .tile-inner, .tile.tile-1572864 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(63, 72, 204, 0.9) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(63, 72, 204, 0.9) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 6px; }
@@ -727,7 +727,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-2097152 .tile-inner, .tile.tile-46368 .tile-inner, .tile.tile-3145728 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(63, 72, 204, 1.0) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(63, 72, 204, 1.0) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 5px; }
@@ -736,7 +736,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-4194304 .tile-inner, .tile.tile-75025 .tile-inner, .tile.tile-6291456 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(0, 0, 0, 0.55) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(0, 0, 0, 0.55) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.05), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -746,7 +746,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-8388608 .tile-inner, .tile.tile-121393 .tile-inner, .tile.tile-12582912 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(0, 0, 0, 0.60) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(0, 0, 0, 0.60) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.10), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -756,7 +756,7 @@ hr {
         font-size: 4px; } }
   .tile.tile-16777216 .tile-inner, .tile.tile-196418 .tile-inner, .tile.tile-25165824 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(0, 0, 0, 0.65) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(0, 0, 0, 0.65) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.15), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -766,7 +766,7 @@ hr {
         font-size: 3px; } }
   .tile.tile-33554432 .tile-inner, .tile.tile-317811 .tile-inner, .tile.tile-50331648 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(0, 0, 0, 0.70) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(0, 0, 0, 0.70) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.20), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -776,7 +776,7 @@ hr {
         font-size: 3px; } }
   .tile.tile-67108864 .tile-inner, .tile.tile-514229 .tile-inner, .tile.tile-100663296 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(0, 0, 0, 0.75) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(0, 0, 0, 0.75) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.25), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -786,7 +786,7 @@ hr {
         font-size: 3px; } }
   .tile.tile-134217728 .tile-inner, .tile.tile-832040 .tile-inner, .tile.tile-201326592 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(0, 0, 0, 0.80) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(0, 0, 0, 0.80) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.30), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -796,7 +796,7 @@ hr {
         font-size: 2px; } }
   .tile.tile-268435456 .tile-inner, .tile.tile-1346269 .tile-inner, .tile.tile-402653184 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(0, 0, 0, 0.85) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(0, 0, 0, 0.85) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.35), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -806,7 +806,7 @@ hr {
         font-size: 2px; } }
   .tile.tile-536870912 .tile-inner, .tile.tile-2178309 .tile-inner, .tile.tile-805306368 .tile-inner  {
     color: #f9f6f2;
-    background: rgba(0, 0, 0, 0.90) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(0, 0, 0, 0.90) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.40), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -816,7 +816,7 @@ hr {
         font-size: 2px; } }
   .tile.tile-1073741824 .tile-inner, .tile.tile-3524578 .tile-inner {
     color: #f9f6f2;
-    background: rgba(0, 0, 0, 0.95) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgba(0, 0, 0, 0.95) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.45), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -826,7 +826,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-2147483648 .tile-inner, .tile.tile-5702887 .tile-inner, .tile.tile-1610612736 .tile-inner {
     color: #f9f6f2;
-    background: rgb(237, 28, 36) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(237, 28, 36) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(237, 28, 36, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -836,7 +836,7 @@ hr {
         font-size: 1px; } } 
   .tile.tile-4294967296 .tile-inner {
     color: #f9f6f2;
-    background: rgb(11, 250, 34) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(11, 250, 34) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(11, 250, 34, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -846,7 +846,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-8589934592 .tile-inner {
     color: #f9f6f2;
-    background: rgb(37, 2, 237) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(37, 2, 237) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 0, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -856,7 +856,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-17179869184 .tile-inner {
     color: #f9f6f2;
-    background: rgb(40, 255, 255) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(40, 255, 255) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -866,7 +866,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-34359738368 .tile-inner {
     color: #f9f6f2;
-    background: rgb(40, 221, 222) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(40, 221, 222) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -876,7 +876,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-68719476736 .tile-inner {
     color: #f9f6f2;
-    background: rgb(40, 187, 189) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(40, 187, 189) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -886,7 +886,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-137438953472 .tile-inner {
     color: #f9f6f2;
-    background: rgb(41, 153, 156) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(41, 153, 156) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -896,7 +896,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-274877906944 .tile-inner {
     color: #f9f6f2;
-    background: rgb(39, 136, 137) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(39, 136, 137) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -906,7 +906,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-549755813888 .tile-inner {
     color: #f9f6f2;
-    background: rgb(41, 119, 120) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(41, 119, 120) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -916,7 +916,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-1099511627776 .tile-inner {
     color: #f9f6f2;
-    background: rgb(39, 102, 102) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(39, 102, 102) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -926,7 +926,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-2199023255552 .tile-inner {
     color: #ffffff;
-    background: rgb(103, 39, 102) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(103, 39, 102) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -936,7 +936,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-4398046511104 .tile-inner {
     color: #ffffff;
-    background: rgb(120, 39, 120) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(120, 39, 120) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -946,7 +946,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-8796093022208 .tile-inner {
     color: #ffffff;
-    background: rgb(137, 38, 137) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(137, 38, 137) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -956,7 +956,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-17592186044416 .tile-inner {
     color: #ffffff;
-    background: rgb(153, 38, 154) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(153, 38, 154) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -966,7 +966,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-35184372088832 .tile-inner {
     color: #ffffff;
-    background: rgb(188, 39, 188) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(188, 39, 188) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -976,7 +976,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-70368744177664 .tile-inner {
     color: #ffffff;
-    background: rgb(233, 38, 233) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(233, 38, 233) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 32, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -986,7 +986,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-140737488355328 .tile-inner {
     color: #ffffff;
-    background: rgb(255, 38, 255) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(255, 38, 255) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 64, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -996,7 +996,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-281474976710656 .tile-inner {
     color: #f9f6f2;
-    background: rgb(255, 90, 255) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(255, 90, 255) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 96, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1006,7 +1006,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-562949953421312 .tile-inner {
     color: #f9f6f2;
-    background: rgb(255, 129, 255) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(255, 129, 255) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 128, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1016,7 +1016,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-1125899906842624 .tile-inner {
     color: #f9f6f2;
-    background: rgb(255, 160, 255) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(255, 160, 255) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 160, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1026,7 +1026,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-2251799813685248 .tile-inner {
     color: #f9f6f2;
-    background: rgb(255, 189, 255) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(255, 189, 255) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 192, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1036,7 +1036,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-4503599627370496 .tile-inner {
     color: #f9f6f2;
-    background: rgb(255, 220, 255) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(255, 220, 255) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 224, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1046,7 +1046,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-9007199254740992 .tile-inner {
     color: #ff0000;
-    background: rgb(255, 255, 255) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(255, 255, 255) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 255, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1056,7 +1056,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-18014398509481984 .tile-inner {
     color: #000000;
-    background: rgb(219, 255, 216) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(219, 255, 216) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1066,7 +1066,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-36028797018963970 .tile-inner {
     color: #000000;
-    background: rgb(170, 255, 166) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(170, 255, 166) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1076,7 +1076,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-72057594037927940 .tile-inner {
     color: #000000;
-    background: rgb(19, 255, 1) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(19, 255, 1) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1086,7 +1086,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-144115188075855870 .tile-inner {
     color: #000000;
-    background: rgb(15, 213, 3) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(15, 213, 3) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1096,7 +1096,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-288230376151711740 .tile-inner {
     color: #000000;
-    background: rgb(14, 177, 1) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(14, 177, 1) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1106,7 +1106,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-576460752303423500 .tile-inner {
     color: #000000;
-    background: rgb(10, 102, 2) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(10, 102, 2) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 192, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1116,7 +1116,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-1152921504606847000 .tile-inner {
     color: #000000;
-    background: rgb(124, 0, 0) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(124, 0, 0) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 0, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1126,7 +1126,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-2305843009213694000 .tile-inner {
     color: #000000;
-    background: rgb(160, 0, 0) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(160, 0, 0) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 45, 45, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1136,7 +1136,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-4611686018427388000 .tile-inner {
     color: #000000;
-    background: rgb(220, 0, 0) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(220, 0, 0) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 65, 65, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1146,7 +1146,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-9223372036854776000 .tile-inner {
     color: #000000;
-    background: rgb(255, 0, 0) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(255, 0, 0) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 125, 125, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1156,7 +1156,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-18446744073709552000 .tile-inner {
     color: #ff80ff;
-    background: rgb(128, 0, 128) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(128, 0, 128) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1166,7 +1166,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-36893488147419103000 .tile-inner {
     color: #ffff80;
-    background: rgb(128, 128, 0) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(128, 128, 0) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 255, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1176,7 +1176,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-73786976294838210000 .tile-inner {
     color: #80ffff;
-    background: rgb(0, 128, 128) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(0, 128, 128) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1186,7 +1186,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-147573952589676410000 .tile-inner {
     color: #8080ff;
-    background: rgb(0, 0, 128) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(0, 0, 128) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 0, 255, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1196,7 +1196,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-295147905179352830000 .tile-inner {
     color: #80ff80;
-    background: rgb(0, 128, 0) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(0, 128, 0) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(0, 255, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -1206,7 +1206,7 @@ hr {
         font-size: 1px; } }
   .tile.tile-590295810358705700000 .tile-inner {
     color: #ff8080;
-    background: rgb(128, 0, 0) url(https://all2048.com/images/1/blackpink/20485d7269d6761e5.jpg);
+    background: rgb(128, 0, 0) url(https://all2048.com/images/21/blackpink-ice-cream/20485f6998e91f393.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(255, 0, 0, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
